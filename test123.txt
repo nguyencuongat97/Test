@@ -8,3 +8,5 @@ thay doi tren server nay !
 nguyen manh cuong thay doi local
 
 le van quang thay doi
+
+nguyen thuy duong sua doi lan 1 tai local 
