@@ -14,9 +14,3 @@ nguyen thuy duong sua doi lan 1 tai local
 thay doi de conflic
 
 commit 1
-
-commit 2
-
-nguyen manh cuong
-
-nguyen van a
