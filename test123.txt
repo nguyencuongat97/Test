@@ -16,3 +16,7 @@ thay doi de conflic
 commit 1
 
 commit 2
+
+nguyen manh cuong
+
+nguyen van a
