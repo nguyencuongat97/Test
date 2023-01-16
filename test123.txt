@@ -13,6 +13,6 @@ nguyen thuy duong sua doi lan 1 tai local
 
 thay doi de conflic
 
-1
+commit 1
 
-2
+commit 2
