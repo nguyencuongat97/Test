@@ -1,18 +1,10 @@
-nguyen manh cuong
-thay doi 1 so 
-change number 11
-le van quang sua doi
-
-thay doi tren server nay !
-
-nguyen manh cuong thay doi local
-
-le van quang thay doi
-
-nguyen thuy duong sua doi lan 1 tai local 
-
-thay doi de conflic
-
-commit 1
-
-nguyen manh cuong
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
