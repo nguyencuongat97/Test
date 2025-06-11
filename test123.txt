@@ -9,3 +9,4 @@
 9
 10
 them phat trien tinh nang moi EBA_1
+commit 1
